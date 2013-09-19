@@ -1,0 +1,5 @@
+name: nicks.io
+markdown: redcarpet
+safe: true
+lsi: false
+pygments: true

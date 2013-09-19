@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Skeleton -->
+        <link rel="stylesheet" href="/css/layout.css">
+        <link rel="stylesheet" href="/css/skeleton.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
+
+    </head>
+    <body>
+        <div class="container site">
+          <div class="sidebar three columns">
+            <div class="header">
+              <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+              <a class="extra" href="/">home</a>
+            </div>
+
+            <strong> Under Construction </strong><br>
+
+            <div class="contact">
+              <p>
+                Nick Smith<br />
+                Student, Hacker, etc.<br />
+                nsmith@member.fsf.org
+              </p>
+            </div>
+            <div class="contact">
+              <p>
+                <a href="https://github.com/nsmith448">github.com/nsmith448</a><br />
+              </p>
+              <p>
+                <a href="http://www.fsf.org/register_form?referrer=11102"><img src="http://static.fsf.org/nosvn/associate/fsf-11102.png" alt="[FSF Associate Member]" /></a>
+              </p>
+            </div>
+          </div>
+
+          <div class="content-container twelve columns offset-by-one">
+            {{ content }}
+          </div>
+        </div>
+
+        </div>
+
+    </body>
+</html>
