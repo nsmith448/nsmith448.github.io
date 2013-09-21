@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello, World!"
 date:   2013-09-18 19:18:43
-categories: meta self site
+categories: meta
 ---
 Here it is, my blog: some obscure space in the internet where I can discuss all
 things that are mucking about both inside my head and on my filesystem. I've

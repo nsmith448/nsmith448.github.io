@@ -2,7 +2,7 @@
 layout: post
 title:  "Happy Software Freedom Day!"
 date:   2013-09-21 19:18:43
-categories: foss fsf self
+categories: foss
 ---
 Today is [Software Freedom Day][sfd], one day each year set aside to celebrate
 [Free Software][freesw] and its importance in building a free society. We should
