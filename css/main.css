@@ -113,6 +113,7 @@ ul.posts span {
 
 .site .content-container {
   padding-top: 12px;
+  padding-bottom: 40px;
 }
 
 .site .header a {
@@ -173,6 +174,16 @@ ul.posts span {
 
 .site .footer .rss img {
   border: 0;
+}
+
+.site p .aside.right {
+  float: right;
+  margin-left: 20px;
+}
+
+.site p .aside.left {
+  float: left;
+  margin-right: 20px;
 }
 
 /*****************************************************************************/

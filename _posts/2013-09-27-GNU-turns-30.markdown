@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "GNU Turns 30"
+date:   2013-09-27 19:50:00
+categories: foss
+---
+Today marks 30 years since Richard Stallman first announced his intention to
+code the world's first free Operating System.
+
+<a class="aside right" href="http://shop.fsf.org/product/free-as-in-freedom-2/">
+<img src="/img/2013-09-27-book.png" alt="Free as In Freedom (2.0)">
+</a>
+I have been reading about him lately in [the novel][thebook] by Sam Williams and
+Richard Stallman, ["Free as in Freedom (2.0)"][thebook], which elegantly captures
+Stallman's early life and involvement in the Free Software Movement. This is
+version 2.0 because it has been edited by Stallman himself to correct and update
+a few things that he disagreed with, and to add his usual wit.
+
+> Free Unix!
+> 
+> Starting this Thanksgiving I am going to write a complete
+Unix-compatible software system called GNU (for Gnu's Not Unix), and
+give it away free to everyone who can use it.
+>
+> &ndash;read the [full announcement][announce]
+
+
+<a class="aside left" href="https://gnu.org/fry/happy-birthday-to-gnu.html">
+<img src="/img/2013-09-27-fry.png" alt="Happy birtdhay to GNU">
+</a>
+So, happy birthday to GNU! There are a ton of festivities going on this weekend
+including a [hackathon][hackgnu] in Cambridge (although I'll be attending a
+[different hackathon][hackny] this weekend) and much more. Also, Stephen Fry
+made a nice ["Happy Birthday to GNU"][fry] video to show his appreciation for
+freedom! That's awesome.
+
+[announce]: http://article.olduse.net/771@mit-eddie.UUCP
+[hackgnu]:  https://gnu.org/gnu30/celebration
+[hackny]:   http://hackny.org/a/
+[thebook]:  http://shop.fsf.org/product/free-as-in-freedom-2
+[fry]:      https://gnu.org/fry/happy-birthday-to-gnu.html
